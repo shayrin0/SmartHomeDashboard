@@ -1,0 +1,14 @@
+-rootPath
+/home/shayrin/GitHub/SmartHomeDashboard
+-cmake-output
+-output-file
+/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/.qt/qml_imports/appSmartHomeDashboard_conf.cmake
+-importPath
+/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/SmartHomeDashboard
+-importPath
+/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug
+-importPath
+/home/shayrin/Qt/6.10.0/gcc_64/qml
+-qrcFiles
+/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/.qt/rcc/qmake_SmartHomeDashboard.qrc
+/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/.qt/rcc/appSmartHomeDashboard_raw_qml_0.qrc

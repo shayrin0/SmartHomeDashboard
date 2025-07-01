@@ -1,0 +1,23 @@
+# ninja log v6
+5	10	1751404110447886461	.qt/appSmartHomeDashboard_res.txt	66bc4b8f991781e6
+5	10	1751404110447886461	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/.qt/appSmartHomeDashboard_res.txt	66bc4b8f991781e6
+5	10	1751404110447886461	.qt/appSmartHomeDashboard_qml.txt	e49cc73083ce77f7
+5	10	1751404110447886461	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/.qt/appSmartHomeDashboard_qml.txt	e49cc73083ce77f7
+6	20	1751404110456886348	.qt/qml_imports/appSmartHomeDashboard_build.cmake	5bf81b09a198c30a
+6	20	1751404110456886348	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/.qt/qml_imports/appSmartHomeDashboard_build.cmake	5bf81b09a198c30a
+20	54	1751404110483886008	appSmartHomeDashboard_autogen/timestamp	dc89446fbc6d3fa0
+20	54	1751404110483886008	appSmartHomeDashboard_autogen/mocs_compilation.cpp	dc89446fbc6d3fa0
+20	54	1751404110483886008	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/appSmartHomeDashboard_autogen/timestamp	dc89446fbc6d3fa0
+20	54	1751404110483886008	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/appSmartHomeDashboard_autogen/mocs_compilation.cpp	dc89446fbc6d3fa0
+56	61	1751404110499885806	meta_types/appSmartHomeDashboard_json_file_list.txt	13b8fbe195558f37
+56	61	1751404110499885806	meta_types/appSmartHomeDashboard_json_file_list.txt.timestamp	13b8fbe195558f37
+56	61	1751404110499885806	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/meta_types/appSmartHomeDashboard_json_file_list.txt	13b8fbe195558f37
+56	61	1751404110499885806	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/meta_types/appSmartHomeDashboard_json_file_list.txt.timestamp	13b8fbe195558f37
+61	67	1751404110504885743	meta_types/qt6appsmarthomedashboard_debug_metatypes.json.gen	53492493c972a047
+61	67	1751404110504885743	meta_types/qt6appsmarthomedashboard_debug_metatypes.json	53492493c972a047
+61	67	1751404110504885743	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/meta_types/qt6appsmarthomedashboard_debug_metatypes.json.gen	53492493c972a047
+61	67	1751404110504885743	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/meta_types/qt6appsmarthomedashboard_debug_metatypes.json	53492493c972a047
+67	148	1751404110573884874	appsmarthomedashboard_qmltyperegistrations.cpp	539729ce1aa5d0d2
+67	148	1751404110573884874	SmartHomeDashboard/appSmartHomeDashboard.qmltypes	539729ce1aa5d0d2
+67	148	1751404110573884874	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/appsmarthomedashboard_qmltyperegistrations.cpp	539729ce1aa5d0d2
+67	148	1751404110573884874	/home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/SmartHomeDashboard/appSmartHomeDashboard.qmltypes	539729ce1aa5d0d2
