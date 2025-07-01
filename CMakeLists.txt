@@ -13,6 +13,8 @@ qt_add_executable(appSmartHomeDashboard
    Models/Device.h
    Models/DeviceDataProvider.h
    Models/DeviceDataProvider.cpp
+	ViewModels/DeviceListViewModel.h
+	ViewModels/DeviceListViewModel.cpp
 )
 
 qt_add_qml_module(appSmartHomeDashboard
