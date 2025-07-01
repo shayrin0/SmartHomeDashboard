@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
    QQmlApplicationEngine engine;
 
    DeviceListViewModel deviceViewModel;
-   engine.rootContext()->setContextProperty("deviceViewModel", &deviceViewModel);
+   engine.rootContext()->setContextProperty("_deviceViewModel", &deviceViewModel);
 
    QObject::connect(
       &engine,

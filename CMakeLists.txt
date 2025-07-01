@@ -21,7 +21,9 @@ qt_add_qml_module(appSmartHomeDashboard
    URI SmartHomeDashboard
    VERSION 1.0
    QML_FILES
-      Main.qml
+      View/Main.qml
+      View/DashboardPage.qml
+      View/DeviceCard.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
