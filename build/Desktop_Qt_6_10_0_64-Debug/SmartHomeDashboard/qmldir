@@ -1,5 +1,0 @@
-module SmartHomeDashboard
-typeinfo appSmartHomeDashboard.qmltypes
-prefer :/qt/qml/SmartHomeDashboard/
-Main 1.0 Main.qml
-

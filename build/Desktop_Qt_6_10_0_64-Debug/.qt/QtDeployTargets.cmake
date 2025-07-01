@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appSmartHomeDashboard_FILE /home/shayrin/GitHub/SmartHomeDashboard/build/Desktop_Qt_6_10_0_64-Debug/appSmartHomeDashboard)
-set(__QT_DEPLOY_TARGET_appSmartHomeDashboard_TYPE EXECUTABLE)
